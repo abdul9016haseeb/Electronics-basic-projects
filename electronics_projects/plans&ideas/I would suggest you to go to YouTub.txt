@@ -1,0 +1,9 @@
+I would suggest you to go to YouTube and search for “Robert Feranec”. He is a pioneer in this field and he has put a lot of videos on how to get started with PCB Design. He uses a software called “Altium Designer” which is one of the standard software used in the industry.
+
+Now the catch is the software isn’t free. But, if you have an academic account, you can download it for free.
+
+If you don't have a student account and you cant afford to buy the software(it is a bit pricey though), the same company provides another free PCB Design software called “Altium Circuit Maker”. That is completely free and has a very similar design interface to the “Altium Designer Software”(first paragraph - paid version)
+
+Now that we are done with the software, you can start learning from the above mentioned channel. In addition, Altium themselves have a YouTube channel named “Altium Academy”. You can check that out as well.
+
+Happy Learning and Designing! :D

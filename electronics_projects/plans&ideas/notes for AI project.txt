@@ -1,0 +1,4 @@
+notes for AI project
+
+esp32 with cloud AI - https://dev.to/tkeyo/tinyml-machine-learning-on-esp32-with-micropython-38a6
+

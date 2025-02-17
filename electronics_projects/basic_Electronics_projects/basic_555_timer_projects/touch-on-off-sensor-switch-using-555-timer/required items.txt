@@ -1,0 +1,10 @@
+touch on-off sensor:-
+
+Components Required:-
+
+* 555 Timer IC
+* 1 or 2 LED’s (You can also connect buzzers etc.)
+* Resistors 2 x 10M, 2 x (The series resistor for LED’s)* 
+* Breadboard
+* Few Breadboard Connectors
+* (5-12)V Power Supply
