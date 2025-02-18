@@ -1,0 +1,18 @@
+components need to buy:-
+
+ 	* 555 Timer IC - 3
+ 	* LED'S - 10
+ 	* LDR - 2
+	* Resistor - 2 x 10M, 470r, 1K, 47K, 330r, 2 x 270r, 10k,
+ 	* capacitors - 22uF, 100nF (104), 1uf
+	* Buzzer - 1
+	* condenser mic - 1
+	* CD 4017 IC - 1
+	* LM 358 IC - 1
+	* InfraRed LED PhotoDiode pair - 1
+	* 100K Potentiometer (For a variable chasing speed)
+
+	
+
+
+
