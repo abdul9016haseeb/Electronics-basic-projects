@@ -1,0 +1,69 @@
+ten projects ideas:
+
+  1)  Touch On-Off Sensor Switch Circuit Using 555 Timer IC
+
+		* 555 Timer IC - 1
+     		* 1 or 2 LED’s (You can also connect buzzers etc.) - 2
+     		* Resistors 2 x 10M, 2 x (The series resistor for LED’s) - 
+     		* Breadboard
+     		* Few Breadboard Connectors
+     		* (5-12)V Power Supply
+
+
+  2) Light Sensor and Darkness detector circuit using LDR and Transistor
+
+		* 1 LDR (Light Dependent Resistor or Photo-resistor) 
+              	* 1 npn Transistor (I used BC547)
+              	* Resistors: 470R, 1K (For Light Sensor), 47K (For Dark Sensor)
+             	* Potentiometer (Only if you need adjustable sensitivity): 10K (For Light Sensor), 100K (For Dark Sensor)
+	      	* Breadboard
+             	* Power Supply: (3-12)V
+		* Few Breadboard connectors
+
+  3) Clap Switch circuit on Breadboard (Sound triggered LED) 
+
+		* 555 timer IC
+		* 2 npn transistors (I used BC547)
+		* Resistors: (5-6)v 270r or 330r or 470r, 9v 470r, 12v 1k,
+		* Capacitor: 22uF (gives 2.5s of LED on time), 100nF (104)
+		* LED/Buzzer
+		* Breadboard
+		* Power Supply: (5-12)V
+		* Few Breadboard connectors
+
+  4) LED Chaser circuit using 555 timer + 4017 IC
+
+ 		* 555 Timer IC
+		* CD 4017 IC
+		* LED Lights x10
+		* 470R, 1K, 47K
+		* Capacitor: 1uF
+		* Breadboard
+		* Lot of Breadboard Connectors
+		* Power Supply: (5-15)V
+		NOTE: If you are using a power source more than 9V, use 1K resistor in place of 470R.
+
+  5) IR Proximity Sensor / Obstacle Detector circuit on Breadboard
+
+		* LM 358 IC
+		* 1 InfraRed LED PhotoDiode pair
+		* Resistors: 2 x 270R, 10K
+		* Potentiometer: 10K
+		* Breadboard
+		* Power Supply: (3-12)V
+		* Few Breadboard connectors
+		Note: For supply voltage of 9V or more, use 1K resistor for LED and 470R for InfraRed(IR) LED.
+
+  6) LED chaser circuit #2 (Knight Rider Style)
+		
+		* CD 4017 IC
+		* 555 Timer IC
+		* LED Lights x6
+		* Resistors: 270R, 1K, 47K
+		* 100K Potentiometer (For a variable chasing speed)
+		* Capacitor: 1uF
+		* Breadboard
+		* Lot of Breadboard Connectors
+		* Power Supply: (5-15)V
+		NOTE: If you are using a power source more than 9V, use 470R resistor in place of 270R.
+
