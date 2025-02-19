@@ -1,5 +1,7 @@
 components need to buy:-
 
+   *for six experiment:-
+
  	* 555 Timer IC - 3
  	* LED'S - 10
  	* LDR - 2
